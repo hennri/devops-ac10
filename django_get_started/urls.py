@@ -44,3 +44,4 @@ urlpatterns = patterns('',
 )
 
 url(r'^cadastro_vestibulares', 'app.views.cadastro_vestibulares’, name='cadastro_vestibulares'),
+
